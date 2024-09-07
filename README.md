@@ -17,6 +17,9 @@
 ### Basics
 - https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=Y_KVidhe621Pkesg - Neural Network Zero to Hero by Andrej Karpathy
 
+### Psychology
+- https://www.youtube.com/playlist?list=PL44ABC9278E2EE706 - MIT 9.00SC Introduction to Psychology, Fall 2011
+
 ### Stanford Lectures
 - https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&si=yfbRBAMbp42juxX0 - Convolutional Neural Networks for Visual Recognition, Spring 2017 (CS231n)
 - https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&si=8Y7U_qPQIxVUtG96 - Reinforcement Learning, Winter 2019 (CS234)

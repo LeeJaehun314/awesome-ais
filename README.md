@@ -1,6 +1,3 @@
-# awesome-ais
-Covering all the good stuff about AI and related.
-
 # AI Model
 ### Language Model
 - https://chatgpt.com/ - The 'ChatGPT'

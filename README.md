@@ -2,20 +2,20 @@
 Covering all the good stuff about AI and related on the internet.
 
 # AI Model
-## Language Model
-- https://chatgpt.com/
-- https://claude.ai/
+### Language Model
+- https://chatgpt.com/ - The 'ChatGPT'
+- https://claude.ai/ - The 'ChatGPT' alternative
 
-## Automatic Speech Recognition
-- https://github.com/openai/whisper
+### Automatic Speech Recognition
+- https://github.com/openai/whisper - Open source model for multi-language, multi-task speech recognition from OpenAI
 
-## Recommendation System
-- https://github.com/recommenders-team/recommenders
+### Recommendation System
+- https://github.com/recommenders-team/recommenders - Compile of recommendation models and libraries
 
 # AI Tool
-## Software Development
-- https://github.com/jamesmurdza/awesome-ai-devtools?tab=readme-ov-file#ides
+### Software Development
+- https://github.com/jamesmurdza/awesome-ai-devtools?tab=readme-ov-file#ides - 'Awesome' github for AI Devtools
 
 # AI Lectures
-## Basics
-- https://youtu.be/VMj-3S1tku0?si=eLUNGgvEm6dvjydC
+### Basics
+- https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=Y_KVidhe621Pkesg - Neural Network Zero to Hero by Andrej Karpathy

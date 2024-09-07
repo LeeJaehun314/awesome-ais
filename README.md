@@ -1,4 +1,4 @@
-# AI Model
+# Model
 ### Language Model
 - https://chatgpt.com/ - The 'ChatGPT'
 - https://claude.ai/ - The 'ChatGPT' alternative
@@ -9,11 +9,18 @@
 ### Recommendation System
 - https://github.com/recommenders-team/recommenders - Compile of recommendation models and libraries
 
-# AI Tool
+### Soft Search
+- https://github.com/microsoft/graphrag - GraphRAG from Microsoft
+
+# Application
 ### Software Development
 - https://github.com/jamesmurdza/awesome-ai-devtools - 'Awesome' github for AI Devtools
 
-# AI Lectures
+### Role-playing
+- https://play.aidungeon.com/ - Chat base D&D like system
+- https://github.com/kwaroran/RisuAI - Role-play framework
+
+# Lecture
 ### Basics
 - https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=Y_KVidhe621Pkesg - Neural Network Zero to Hero by Andrej Karpathy
 

@@ -14,7 +14,7 @@ Covering all the good stuff about AI and related on the internet.
 
 # AI Tool
 ### Software Development
-- https://github.com/jamesmurdza/awesome-ai-devtools?tab=readme-ov-file#ides - 'Awesome' github for AI Devtools
+- https://github.com/jamesmurdza/awesome-ai-devtools - 'Awesome' github for AI Devtools
 
 # AI Lectures
 ### Basics

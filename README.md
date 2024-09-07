@@ -1,5 +1,5 @@
 # awesome-ais
-Covering all the good stuff about AI and related on the internet.
+Covering all the good stuff about AI and related.
 
 # AI Model
 ### Language Model

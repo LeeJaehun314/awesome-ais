@@ -33,5 +33,5 @@
 - https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=qO26yptV0-RGL8aQ - NLP with Deep Learning, Winter 2021 (CS224n)
 
 # Meta Link
-For these meta link, please do not give start for this github, but give to the meta link.
+(For these meta link, please do not give star for this github, but give to the meta link)
 - https://github.com/re50urces/Awesome-AI - A curated list of awesome things related to artificial intelligence tools
